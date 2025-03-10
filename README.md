@@ -63,6 +63,6 @@ To customize the quotes, edit `quotes.txt` and restart the application. Each quo
 This project is licensed under the MIT License.
 
 ## Author
-[TrainWithShubham](https://github.com/LondheShubham153)
+https://github.com/vishwajeet937/java-quotes-app-project.git
 
 
